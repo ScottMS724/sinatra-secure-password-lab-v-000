@@ -1,6 +1,6 @@
-#require './app/controllers/application_controller'
+require './app/controllers/application_controller'
 
-#run ApplicationController
+run ApplicationController
 
 require './config/environment'
 
